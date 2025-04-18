@@ -2,10 +2,12 @@
 
 > A vibe-coded, real-time typing game with WebGL particle effects.
 
-> [!INFO]
+> [!TIP]
 > This game was 100% "vibe coded" with [OpenAI's Codex CLI](https://github.com/openai/codex). I did not write any of the code in this repo.
 
 ![typetype logo](/media/logo.png)
+
+🎮 Try it live! https://radiovisual.github.io/typetype/
 
 ## Getting Started
 
